@@ -1,4 +1,4 @@
-# sudoku-solver-py
+# sudoku-solver-backtracking-py
 This is a sudoku solver
 
 
